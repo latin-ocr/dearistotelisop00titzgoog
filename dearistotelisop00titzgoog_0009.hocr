@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dearistotelisop00titzgoog_0009.png"; bbox 0 0 2756 5032; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 194 1822 1240 1902">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 194 1822 1240 1902">
+     <span class='ocr_line' id='line_1_1' title="bbox 194 1822 1240 1902; baseline 0.001 -5"><span class='ocrx_word' id='word_1_1' title='bbox 194 1822 197 1833; x_wconf 79' lang='grc'>’</span> <span class='ocrx_word' id='word_1_2' title='bbox 237 1875 240 1893; x_wconf 88' lang='grc'>.</span> <span class='ocrx_word' id='word_1_3' title='bbox 299 1834 353 1898; x_wconf 67' lang='lat' dir='ltr'>:w</span> <span class='ocrx_word' id='word_1_4' title='bbox 372 1837 454 1900; x_wconf 62' lang='lat' dir='ltr'>urs</span> <span class='ocrx_word' id='word_1_5' title='bbox 476 1833 562 1899; x_wconf 69' lang='lat' dir='ltr'>om</span> <span class='ocrx_word' id='word_1_6' title='bbox 584 1833 703 1898; x_wconf 51' lang='lat'>5³:112</span> <span class='ocrx_word' id='word_1_7' title='bbox 731 1823 1240 1902; x_wconf 45' lang='lat' dir='ltr'>umanum-⁴.5212323110</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 510 2183 1045 2258">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 510 2183 1045 2258">
+     <span class='ocr_line' id='line_1_2' title="bbox 510 2183 1045 2258; baseline -0.006 -15"><span class='ocrx_word' id='word_1_8' title='bbox 510 2183 822 2242; x_wconf 65' lang='lat' dir='ltr'>mmmm</span> <span class='ocrx_word' id='word_1_9' title='bbox 860 2187 1045 2258; x_wconf 46' lang='lat' dir='ltr'>amum</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1382 5032">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1382 5032">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1382 5032; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1382 5032; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
